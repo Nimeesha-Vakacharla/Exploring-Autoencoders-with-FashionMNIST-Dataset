@@ -24,7 +24,7 @@ Below is a diagram illustrating the general architecture of an autoencoder:
 - **Output Layer**: Produces the reconstructed data, ideally matching the input.
 
 ![Autoencoder Architecture Diagram](images/Autoencoder_architecture.png)
-*Figure: General architecture of an Autoencoder*
+
 
 ---
 
@@ -52,7 +52,7 @@ The Fully Connected Autoencoder (FC-AE) uses fully connected (dense) layers in b
 
 #### Diagram
 
-_(Insert FC-AE diagram here)_
+
 ![Autoencoder Architecture Diagram](images/1_architecture.png)
 
 
