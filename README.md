@@ -54,7 +54,7 @@ The Fully Connected Autoencoder (FC-AE) uses fully connected (dense) layers in b
 
 _(Insert FC-AE diagram here)_
 ![Autoencoder Architecture Diagram](images/1_architecture.png)
-*Figure: Architecture of an Fully Connected Autoencoder*
+
 
 #### Key Features
 - Simple architecture with fully connected layers.
@@ -82,9 +82,8 @@ The Convolutional Autoencoder (CNN-AE) leverages convolutional neural networks (
 
 #### Diagram
 
-_(Insert CNN-AE diagram here)_
+
 ![Autoencoder Architecture Diagram](images/2_architecture.png)
-*Figure: Architecture of an Convolutional Autoencoder (CNN-AE)*
 
 #### Key Features
 - Uses convolutional layers to preserve spatial relationships.
@@ -112,9 +111,9 @@ The Sparse Autoencoder (Sparse-AE) is similar to the FC-AE but incorporates a sp
 
 #### Diagram
 
-_(Similar to FC-AE but with sparsity constraint)_
+
 ![Autoencoder Architecture Diagram](images/3_architecture.png)
-*Figure: Architecture of an Sparse Autoencoder (Sparse-AE)*
+
 
 
 #### Key Features
@@ -137,9 +136,9 @@ The Recurrent Autoencoder (RNN-AE) uses Long Short-Term Memory (LSTM) layers to 
 
 #### Diagram
 
-_(Insert RNN-AE diagram here)_
+
 ![Autoencoder Architecture Diagram](images/4_architecture.png)
-*Figure: Architecture of an Recurrent Autoencoder (RNN-AE)*
+
 
 #### Key Features
 - Processes data as sequences, capturing temporal dependencies.
@@ -169,9 +168,8 @@ The Variational Autoencoder (VAE) is a generative model that learns a probabilis
 
 #### Diagram
 
-_(Insert VAE diagram here)_
+
 ![Autoencoder Architecture Diagram](images/5_architecture.png)
-*Figure: Architecture of an Variational Autoencoder (VAE)*
 
 
 #### Key Features
